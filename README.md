@@ -164,3 +164,12 @@ Lower costs by automating routine interactions
 Empower agents by offloading mundane tasks
 
 This document provides a clear, actionable path to success. The next step is stakeholder alignment and phased execution.
+
+**Two ways to implement- **
+1) API calls to outsourced AI model increased speed and reduced cost with compromise on company information .
+2) Get a in house AI model trained on the company data but increased cost for different number of model and then also cause it to be a bit slower as it runs on our server.
+3)if using 2 then we can use filler words in starting to make the conversation seemless.
+  
+
+Secondly 
+A read world issue - having the need to go through a menu system when calling a customer care system causing it to consume 
